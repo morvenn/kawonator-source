@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title><b>Assembling Kawonator espresso machines</b></title>
+    <shortdesc>Assembling of the coffee machine</shortdesc>
+    <taskbody>
+        <context>
+            <p>Your <keyword keyref="product"/> machine will have the Drip Tray and Water Tank in
+                place when you unpack it from the box. Other elements will be provided in foam
+                packaging and require manual assembly.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Remove the drip tray and Water Tank and wash all parts and accessories in warm,
+                    soapy water using a non-abrasive washing liquid. Rinse and dry thoroughly.</cmd>
+            </step>
+            <step>
+                <cmd>Insert the storage tray into the base of the machine and slide in towards the
+                    back wall. This is a convenient location to store spare filters and other
+                    maintenance equipment like Kawonator-compatible filter cleaning fluid. </cmd>
+            </step>
+            <step product="product1">
+                <cmd>Slide the Drip Tray, with the Drip Tray Full Indicator and Grid in place, into
+                    the base of the machine and in front of the Storage Tray.</cmd>
+            </step>
+            <step product="product2">
+                <cmd>Slide the Drip Tray, with the Drip Tray Full Indicator and each of its two
+                    Grids in place, into the base of the machine and in front of the Storage
+                    Tray.</cmd>
+            </step>
+            <step>
+                <cmd>Slide the Water Tank over the Drip Tray and into the front opening of the
+                    machine and into position above the Storage Tray. Ensure the Water Tank aligns
+                    flush with the sides of the machine.</cmd>
+                
+            </step>
+        </steps>
+        <example id="example_gyr_xsj_cpb">
+            <note id="note_q2l_ysj_cpb">Before first use we strongly recommend to perform two
+                complete water brewing operation (without ground coffee), to ensure that all
+                internal piping has been preheated.</note>
+        </example>
+    </taskbody>
+</task>

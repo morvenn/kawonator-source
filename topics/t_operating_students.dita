@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_operating_the_kawonator">
+    <title>Operating the Kawonator <keyword product="product1" keyref="product"/> espresso
+        machine</title>
+    <shortdesc>Learn how to operate the Kawonator espresso machine</shortdesc>
+    <taskbody>
+        <prereq id="prereq_a32_3rj_cpb">Ensure the Power On/Off button is ‘Off’ and the Selector
+            Control is set to the ‘Standby’ position.</prereq>
+        <steps>
+            <step>
+                <cmd>Filling the water tank</cmd>
+                <substeps id="substeps_zxv_mjj_cpb">
+                    <substep>
+                        <cmd>Turn the machine off at the power outlet and unplug the power
+                            cord.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove the <term keyref="g_portafilter"></term> if locked
+                            into the <term keyref="g_brew_head"></term> and move the <term
+                                keyref="g_steam_wand"></term> to the side of the
+                            machine.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove the Water Tank by pulling with the handle insert in the front of
+                            the espresso machine.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>When the Water Tank is removed, a black tube slides and extends out
+                            from the Water Tank storage area. Do not touch or try to remove this
+                            tube, it will automatically slide back into position when the Water Tank
+                            is reinserted.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Fill the Water Tank with cold water to the maximum mark on the Water
+                            Window and slide the Water Tank carefully back into position in the
+                            machine.</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <note id="note_zvh_gkj_cpb">Check the water level before use and replace the
+                        water daily. The watertank should be refilled with fresh cold water before
+                        each use.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Preparing the coffee ground</cmd>
+                <substeps id="substeps_omn_smj_cpb" product="product1">
+                    <substep>
+                        <cmd><ph product="product1">Place the <term keyref="g_filter_holder"/> into
+                                the <term keyref="g_portafilter"/>.</ph><ph product="product2">Place
+                                your selected <term keyref="g_filter_holder"/> into the <term
+                                    keyref="g_portafilter"/> (use the smallerfilter for 1 cup and
+                                the larger filter for 2 cups</ph></cmd>
+                    </substep>
+                    <substep>
+                        <cmd product="product2">Use 1 level measure of ground espresso coffee for
+                            the 1 cup filter and 2 level measures for the 2 cup filter. It is
+                            important to use the correct amount of coffee for each <term
+                                keyref="g_filter_holder"/> as the filter perforations have been
+                            constructed to utilize thepressure in the machine to extract optimal
+                            flavor with each brewing.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Tamping the coffee</cmd>
+                <substeps id="substeps_l23_c4j_cpb">
+                    <substep>
+                        <cmd>Distribute the coffee evenly in the <term keyref="g_portafilter"/> and
+                            press down lightly with the tamping end of the measuring spoon.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Clean any excess coffee from the rim of the <term
+                                keyref="g_portafilter"/> to ensure a proper fit into the
+                            machine</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Attaching the portafilter</cmd>
+                <substeps id="substeps_gzj_g4j_cpb">
+                    <substep>
+                        <cmd>Place the filled <term keyref="g_portafilter"/> underneath the <term
+                                keyref="g_brew_head"/> so that the handle is aligned with the arrow
+                            symbol printed in the front of the Brew Head.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Insert the <term keyref="g_portafilter"/> up into the <term
+                                keyref="g_brew_head"/> and rotate the handle to the right until
+                            resistance is felt. This will be at an approximate 90° angle to the
+                            machine.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Brewing the coffee</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Wait until that the red ‘Heating’ light is off. This indicates that the
+                            machine hasreached the correct temperature for brewing.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Ensure the Drip Tray is securely in place.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd><ph product="product1">Place one pre-warmed cup beneath the outlet of
+                                the <term keyref="g_portafilter"/>.</ph><ph product="product2">Place
+                                one or two pre-warmed cups beneath the outlets of the <term
+                                    keyref="g_portafilter"/>.</ph></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Set the Selector Control to the ‘Espresso’ position.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>After a few seconds, aromatic coffee will begin to brew. A pumping
+                            noise will be heard in this operation.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>When sufficient coffee has flowed into the [cup][cups], set the
+                            Selector Control to the ‘Standby’ position. This will stop the flow of
+                            coffee.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <postreq id="postreq_ebr_krj_cpb">Unplug the power cord and allow the machine to
+            cool.</postreq>
+    </taskbody>
+</task>
